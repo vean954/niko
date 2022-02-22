@@ -1,4 +1,7 @@
-### Hi there, I'm currently learning 🤔
+# Hi there, I'm currently learning 🤔
+### exploring headings
+some text on my page 
+will look like this
 
 <!--
 **vean954/vean954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
