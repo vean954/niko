@@ -1,7 +1,8 @@
 # Hi there, I'm currently learning 🤔
 ### exploring headings
-some text on my page 
-will look like this
+some text on my page will look like this
+
+this is the next paragraph text and **this text is bold**
 
 <!--
 **vean954/vean954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
