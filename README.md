@@ -5,7 +5,7 @@ some text on my page will look like this
 this is the next paragraph text and **this text is bold**
 
 I'm posting a picture here
-![2642_mashina-tigr.jpg]
+![2642_mashina-tigr.jpg](https://github.com/vean954/niko/blob/327d57197220e4961a73aafa61b8f38855f5a9e0/2642_mashina-tigr.jpg)
 
 <!--
 **vean954/vean954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
